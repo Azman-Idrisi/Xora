@@ -16,3 +16,5 @@ export const Marker = ({ fill }) => {
       </svg>
     );
   };
+
+  export default Marker
